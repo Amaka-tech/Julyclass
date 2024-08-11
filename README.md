@@ -6,6 +6,7 @@ This is an Analysis to optimise inventory management for FitCompany company by a
 
 ![](IMG_9706.JPG)
 ### Problem Statement
+- 
 
 ### Data Modelling
 
