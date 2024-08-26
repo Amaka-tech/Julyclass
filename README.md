@@ -10,9 +10,9 @@ This is an Analysis to optimise inventory management for FitCompany company by a
 
 ### Data Modelling
 
-| Old Model | New Model |
-| --------- | --------- |
-| Model was Created Manually | Model was created using Automation |
+|   Old Model  | New Model  |
+|    --------  | ---------  | 
+![](682A0189_(3)-compressed.jpg) | ![](682A02021-compressed.jpg)
 
 
 
